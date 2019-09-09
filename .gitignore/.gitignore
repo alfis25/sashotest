@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am alfis25 on github.
+  * I am alfis25 (https://keybase.io/alfis25) on keybase.
+  * I have a public key ASAfUWCOQEYpUDGCpYUx0GRq7_ZduYjPCk9QtRXfkO1a9Ao
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f51608e404629503182a58531d0646aeff65db988cf0a4f50b515df90ed5af40a",
+      "host": "keybase.io",
+      "kid": "01201f51608e404629503182a58531d0646aeff65db988cf0a4f50b515df90ed5af40a",
+      "uid": "7dca3c83feb232743dd5bb6baa2ebc19",
+      "username": "alfis25"
+    },
+    "merkle_root": {
+      "ctime": 1568061599,
+      "hash": "88e5722df5c52a0dc7391eb5f5a81433e68bd89f9ad2a552b535296a1afe6c2fb7b4d74f7b24c7ab98abdde0a32a9be1b4abaf571804aa82c96ba3e49f887251",
+      "hash_meta": "5450e1d8691181fb471581af58ae4189e49717e563d81789d8aaa2aeaf93758d",
+      "seqno": 6251832
+    },
+    "service": {
+      "entropy": "4xjaYuEF6MV4kHKKu/hNTgEH",
+      "name": "github",
+      "username": "alfis25"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568061607,
+  "expire_in": 504576000,
+  "prev": "bb7e83f038c83aba66b3b54b6b9b412a8b54f0026870c95f6bf5872e499f0912",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASAfUWCOQEYpUDGCpYUx0GRq7_ZduYjPCk9QtRXfkO1a9Ao](https://keybase.io/alfis25), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgH1FgjkBGKVAxgqWFMdBkau/2XbmIzwpPULUV35DtWvQKp3BheWxvYWTESpcCC8Qgu36D8DjIOrpms7VLa5tBKotU8AJocMlfa/WHLkmfCRLEIOqACvujQb/AbwnOCZMjQqNmWJL9arYbkbqLgQtPaJrtAgHCo3NpZ8RAEam52QD7i+GY9/kcNRTu4b7ipFlTwnEd3J2JIP2MHLKlMJskZXf5G1gR33b/A87+BpEKy0ssU6pDVk/v4i7DAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJdLOfyXPlnOjmfvR8yV9yBLUT9nq7zwjro/FwogX+fHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/alfis25
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id alfis25
+```
